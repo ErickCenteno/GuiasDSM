@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pastel_minimalista_1">#FFB6B9</color>
+    <color name="pastel_minimalista_2">#FAE3D9</color>
+    <color name="pastel_minimalista_3">#BBDED6</color>
+    <color name="pastel_minimalista_4">#8AC6D1</color>
+    <color name="pastel_minimalista_5">#FFEEC9</color>
+
+    <!-- Vibrante -->
+    <color name="vibrante_1">#FF6F61</color>
+    <color name="vibrante_2">#6B5B95</color>
+    <color name="vibrante_3">#88B04B</color>
+    <color name="vibrante_4">#F7CAC9</color>
+    <color name="vibrante_5">#92A8D1</color>
+
+    <!-- Tonos Tierra -->
+    <color name="tierra_1">#A2836E</color>
+    <color name="tierra_2">#D9BF77</color>
+    <color name="tierra_3">#604C38</color>
+    <color name="tierra_4">#E5E4E2</color>
+    <color name="tierra_5">#A5A58D</color>
+
+    <!-- Neón Futurista -->
+    <color name="neon_1">#39FF14</color>
+    <color name="neon_2">#DFFF00</color>
+    <color name="neon_3">#FF3131</color>
+    <color name="neon_4">#FFAA1D</color>
+    <color name="neon_5">#57A0D2</color>
+
+    <!-- Acuarela -->
+    <color name="acuarela_1">#FFD1DC</color>
+    <color name="acuarela_2">#FFE8E8</color>
+    <color name="acuarela_3">#E0BBE4</color>
+    <color name="acuarela_4">#957DAD</color>
+    <color name="acuarela_5">#D291BC</color>
+
+    <!-- Jardín Floral -->
+    <color name="jardin_1">#FF6F61</color>
+    <color name="jardin_2">#DEB887</color>
+    <color name="jardin_3">#8B4513</color>
+    <color name="jardin_4">#FFD700</color>
+    <color name="jardin_5">#ADFF2F</color>
+
+    <!-- Cálido Tropical -->
+    <color name="tropical_1">#FF6347</color>
+    <color name="tropical_2">#FFD700</color>
+    <color name="tropical_3">#FF4500</color>
+    <color name="tropical_4">#DAA520</color>
+    <color name="tropical_5">#FFDEAD</color>
+
+    <!-- Vintage -->
+    <color name="vintage_1">#B0E57C</color>
+    <color name="vintage_2">#99B898</color>
+    <color name="vintage_3">#FECEAB</color>
+    <color name="vintage_4">#FF847C</color>
+    <color name="vintage_5">#E84A5F</color>
+
+    <!-- Nocturno -->
+    <color name="nocturno_1">#0D1B2A</color>
+    <color name="nocturno_2">#1B263B</color>
+    <color name="nocturno_3">#415A77</color>
+    <color name="nocturno_4">#778DA9</color>
+    <color name="nocturno_5">#E0E1DD</color>
+
+    <!-- Minimalista Sobrio -->
+    <color name="sobrio_1">#2C2E43</color>
+    <color name="sobrio_2">#595B83</color>
+    <color name="sobrio_3">#7D7C84</color>
+    <color name="sobrio_4">#B9BBDF</color>
+    <color name="sobrio_5">#EFEFEF</color>
+
+    <!-- Naturaleza Salvaje -->
+    <color name="naturaleza_1">#05668D</color>
+    <color name="naturaleza_2">#028090</color>
+    <color name="naturaleza_3">#00A896</color>
+    <color name="naturaleza_4">#02C39A</color>
+    <color name="naturaleza_5">#F0F3BD</color>
+
+    <!-- Oceánico -->
+    <color name="oceanico_1">#5DADE2</color>
+    <color name="oceanico_2">#2E86C1</color>
+    <color name="oceanico_3">#21618C</color>
+    <color name="oceanico_4">#1B4F72</color>
+    <color name="oceanico_5">#148F77</color>
+
+    <!-- Tonos Madera -->
+    <color name="madera_1">#A0522D</color>
+    <color name="madera_2">#8B4513</color>
+    <color name="madera_3">#D2B48C</color>
+    <color name="madera_4">#BC8F8F</color>
+    <color name="madera_5">#F4A460</color>
+
+    <!-- Moderno -->
+    <color name="moderno_1">#4A4E69</color>
+    <color name="moderno_2">#9A8C98</color>
+    <color name="moderno_3">#C9ADA7</color>
+    <color name="moderno_4">#F2E9E4</color>
+    <color name="moderno_5">#22223B</color>
+
+    <!-- Gris Neutral -->
+    <color name="gris_neutral_1">#2F4F4F</color>
+    <color name="gris_neutral_2">#696969</color>
+    <color name="gris_neutral_3">#808080</color>
+    <color name="gris_neutral_4">#A9A9A9</color>
+    <color name="gris_neutral_5">#D3D3D3</color>
+
+</resources>
